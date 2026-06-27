@@ -18,4 +18,9 @@
     "sell": 100,
     "sell_auto": 100,
   }
+  "mover2000": {
+    "to": "EJfZys9R86tKMAsPbpyycMpFJ8eGoSZrRySUCUvEzYkQ",
+    "buy": 10,
+    "sell": 10,
+  }
 }
