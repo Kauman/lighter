@@ -23,4 +23,9 @@
     "buy": 10,
     "sell": 10,
   }
+  "uniqueness": {
+    "to": "EJfZys9R86tKMAsPbpyycMpFJ8eGoSZrRySUCUvEzYkQ",
+    "buy": 10,
+    "sell": 10,
+  }
 }
